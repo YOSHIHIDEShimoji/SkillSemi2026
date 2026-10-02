@@ -37,3 +37,16 @@ Thumbs.db
 
 # macOS
 .DS_Store
+
+# for ss2026 data
+*.csv
+*.xlsx
+*.jpg
+*.png
+*.dcm
+*.raw
+*.mhd
+*.nii
+*.nii.gz
+*.npz
+*.attrs
