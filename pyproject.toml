@@ -1,0 +1,20 @@
+[project]
+name = "skillsemi2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "imageio>=2.38.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "opencv-contrib-python>=5.0.0.93",
+    "pandas>=3.0.6",
+    "pillow>=12.3.0",
+    "pydicom>=3.0.2",
+    "python-gdcm>=3.2.6",
+    "scikit-image>=0.26.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "simpleitk>=2.5.6",
+]
